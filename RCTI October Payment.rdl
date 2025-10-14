@@ -106,6 +106,10 @@ where
           <DataField>Delivery Payment ToDate Subtotal</DataField>
           <rd:TypeName>System.Decimal</rd:TypeName>
         </Field>
+        <Field Name="Delivery_Payment__Net_">
+          <DataField>Delivery Payment (Net)</DataField>
+          <rd:TypeName>System.Decimal</rd:TypeName>
+        </Field>
         <Field Name="Delivery_Payment_ToDate_GST">
           <DataField>Delivery Payment ToDate GST</DataField>
           <rd:TypeName>System.Decimal</rd:TypeName>
@@ -1175,7 +1179,7 @@ Toowoomba QLD 4350</Value>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=0</Value>
+                                  <Value>0</Value>
                                   <Style>
                                     <Format>'$'#,0.000</Format>
                                     <rd:FormatSymbolCulture>en-AU</rd:FormatSymbolCulture>
@@ -1467,7 +1471,7 @@ Toowoomba QLD 4350</Value>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=0</Value>
+                                  <Value>0</Value>
                                   <Style>
                                     <Format>'$'#,0.00</Format>
                                   </Style>
@@ -2903,11 +2907,11 @@ Toowoomba QLD 4350</Value>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>==Sum(Fields!Base_Load_Value.Value, "t_pecan_portal_FinalPayment_RCTI_g")/Sum(Fields!Weight__7_.Value, "t_pecan_portal_FinalPayment_RCTI_g")</Value>
+                                  <Value>=Sum(Fields!Base_Load_Value.Value, "t_pecan_portal_FinalPayment_RCTI_g")/Sum(Fields!Weight__7_.Value, "t_pecan_portal_FinalPayment_RCTI_g")</Value>
                                   <Style>
                                     <FontFamily>Arial</FontFamily>
                                     <FontWeight>Bold</FontWeight>
-                                    <Format>0.000</Format>
+                                    <Format>0.00</Format>
                                   </Style>
                                 </TextRun>
                               </TextRuns>
@@ -2937,7 +2941,7 @@ Toowoomba QLD 4350</Value>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Sum(Fields!Base_Load_Value.Value)</Value>
+                                  <Value>=Sum(Fields!Base_Load_Value.Value, "t_pecan_portal_FinalPayment_RCTI_g")</Value>
                                   <Style>
                                     <FontFamily>Arial</FontFamily>
                                     <FontWeight>Bold</FontWeight>
@@ -3004,7 +3008,7 @@ Toowoomba QLD 4350</Value>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Sum(Fields!Base_Load_Value.Value)</Value>
+                                  <Value>=Sum(Fields!Base_Load_Value.Value, "t_pecan_portal_FinalPayment_RCTI_g")</Value>
                                   <Style>
                                     <FontFamily>Arial</FontFamily>
                                     <FontWeight>Bold</FontWeight>
@@ -3505,7 +3509,7 @@ Toowoomba QLD 4350</Value>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>Delivery Payment</Value>
+                                  <Value>Amount</Value>
                                   <Style>
                                     <FontFamily>Arial</FontFamily>
                                     <FontWeight>Bold</FontWeight>
@@ -3645,7 +3649,7 @@ Toowoomba QLD 4350</Value>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Sum(Fields!Delivery_Payment_ToDate_Subtotal.Value, "t_pecan_portal_FinalPayment_RCTI_g")+Sum(Fields!Delivery_Payment_ToDate_GST.Value, "t_pecan_portal_FinalPayment_RCTI_g")</Value>
+                                  <Value>=Sum(Fields!Delivery_Payment__Net_.Value, "t_pecan_portal_FinalPayment_RCTI_g")</Value>
                                   <Style>
                                     <FontFamily>Arial</FontFamily>
                                     <Format>'$'#,0.00</Format>
@@ -3761,7 +3765,7 @@ Toowoomba QLD 4350</Value>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Sum(Fields!Delivery_Payment_ToDate_Subtotal.Value, "t_pecan_portal_FinalPayment_RCTI_g")+Sum(Fields!Delivery_Payment_ToDate_GST.Value, "t_pecan_portal_FinalPayment_RCTI_g")</Value>
+                                  <Value>=Sum(Fields!Delivery_Payment_ToDate_Subtotal.Value, "t_pecan_portal_FinalPayment_RCTI_g")+Sum(Fields!Delivery_Payment_ToDate_GST.Value, "t_pecan_portal_FinalPayment_RCTI_g")Sum(Fields!Delivery_Payment__Net_.Value, "t_pecan_portal_FinalPayment_RCTI_g")</Value>
                                   <Style>
                                     <FontFamily>Arial</FontFamily>
                                     <FontWeight>Bold</FontWeight>
