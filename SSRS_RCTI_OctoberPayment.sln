@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRS_RCTI_OctoberPayment", "SSRS_RCTI_OctoberPayment.rptproj", "{4CB33F3B-2200-072C-7CAD-D37075F164DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB33F3B-2200-072C-7CAD-D37075F164DE}.Debug|Default.ActiveCfg = Debug
+		{4CB33F3B-2200-072C-7CAD-D37075F164DE}.Debug|Default.Build.0 = Debug
+		{4CB33F3B-2200-072C-7CAD-D37075F164DE}.Debug|Default.Deploy.0 = Debug
+		{4CB33F3B-2200-072C-7CAD-D37075F164DE}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{4CB33F3B-2200-072C-7CAD-D37075F164DE}.DebugLocal|Default.Build.0 = DebugLocal
+		{4CB33F3B-2200-072C-7CAD-D37075F164DE}.Release|Default.ActiveCfg = Release
+		{4CB33F3B-2200-072C-7CAD-D37075F164DE}.Release|Default.Build.0 = Release
+		{4CB33F3B-2200-072C-7CAD-D37075F164DE}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4052C425-49E1-4897-AE0A-BC010AED66C0}
+	EndGlobalSection
+EndGlobal
