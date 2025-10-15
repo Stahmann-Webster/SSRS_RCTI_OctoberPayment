@@ -577,7 +577,7 @@ Toowoomba QLD 4350</Value>
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>=First(Fields!Contract_Number.Value, "t_pecan_portal_FinalPayment_RCTI_g")+"/"+"2"</Value>
+                    <Value>=Parameters!ContractNumber.Value &amp;"/"&amp;"2"</Value>
                     <Style>
                       <FontWeight>Normal</FontWeight>
                     </Style>
@@ -590,9 +590,9 @@ Toowoomba QLD 4350</Value>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>1.98486in</Top>
-            <Left>5.11247in</Left>
+            <Left>5.97705in</Left>
             <Height>0.25in</Height>
-            <Width>2.50125in</Width>
+            <Width>1.63667in</Width>
             <ZIndex>14</ZIndex>
             <Style>
               <Border>
@@ -2610,7 +2610,7 @@ Toowoomba QLD 4350</Value>
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>=First(Fields!Contract_Number.Value, "t_pecan_portal_FinalPayment_RCTI_g")+"/"+"2"</Value>
+                    <Value>=Parameters!ContractNumber.Value &amp;"/"&amp;"2"</Value>
                     <Style>
                       <FontWeight>Normal</FontWeight>
                     </Style>
@@ -2623,9 +2623,9 @@ Toowoomba QLD 4350</Value>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>11.18173in</Top>
-            <Left>5.21168in</Left>
+            <Left>6.07626in</Left>
             <Height>0.25in</Height>
-            <Width>2.50125in</Width>
+            <Width>1.63667in</Width>
             <ZIndex>31</ZIndex>
             <Style>
               <Border>
