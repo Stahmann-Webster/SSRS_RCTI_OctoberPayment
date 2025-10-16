@@ -9,7 +9,7 @@
       <am:Name>SSDTRS</am:Name>
       <am:Version>17.9.34714.143</am:Version>
     </am:UpdatedBy>
-    <am:LastModifiedTimestamp>2025-10-15T21:57:03.2370826Z</am:LastModifiedTimestamp>
+    <am:LastModifiedTimestamp>2025-10-16T01:38:27.5207713Z</am:LastModifiedTimestamp>
   </am:AuthoringMetadata>
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
@@ -18,7 +18,6 @@
       <ConnectionProperties>
         <DataProvider>SQL</DataProvider>
         <ConnectString>Data Source=datawh;Initial Catalog=Raw_Hulling_Drying</ConnectString>
-        <Prompt>Specify a user name and password for data source Raw_Hulling_Drying:</Prompt>
       </ConnectionProperties>
       <rd:SecurityType>DataBase</rd:SecurityType>
       <rd:DataSourceID>24125371-d3cd-40f8-9787-aea529ca3a59</rd:DataSourceID>
@@ -185,7 +184,6 @@ where
             </Style>
           </Textbox>
           <Textbox Name="Textbox2">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -217,7 +215,6 @@ where
             </Style>
           </Textbox>
           <Textbox Name="Textbox3">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -249,7 +246,6 @@ where
             </Style>
           </Textbox>
           <Textbox Name="Textbox4">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -281,7 +277,6 @@ where
             </Style>
           </Textbox>
           <Textbox Name="Textbox6">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -313,7 +308,6 @@ where
             </Style>
           </Textbox>
           <Textbox Name="Textbox5">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -330,7 +324,7 @@ where
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>1.66542in</Top>
-            <Left>1.77424in</Left>
+            <Left>1.89924in</Left>
             <Height>0.25in</Height>
             <Width>2.82718in</Width>
             <ZIndex>6</ZIndex>
@@ -345,7 +339,6 @@ where
             </Style>
           </Textbox>
           <Textbox Name="Textbox7">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -377,7 +370,6 @@ where
             </Style>
           </Textbox>
           <Textbox Name="Textbox8">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -394,7 +386,7 @@ where
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>1.98486in</Top>
-            <Left>1.77424in</Left>
+            <Left>1.89924in</Left>
             <Height>0.25in</Height>
             <Width>2.82718in</Width>
             <ZIndex>8</ZIndex>
@@ -409,7 +401,6 @@ where
             </Style>
           </Textbox>
           <Textbox Name="Textbox9">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -426,7 +417,7 @@ where
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>2.30431in</Top>
-            <Left>1.77424in</Left>
+            <Left>1.89924in</Left>
             <Height>0.25in</Height>
             <Width>2.82718in</Width>
             <ZIndex>9</ZIndex>
@@ -441,7 +432,6 @@ where
             </Style>
           </Textbox>
           <Textbox Name="Textbox10">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -458,7 +448,7 @@ where
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>2.94319in</Top>
-            <Left>1.77424in</Left>
+            <Left>1.89924in</Left>
             <Height>0.25in</Height>
             <Width>2.82718in</Width>
             <ZIndex>10</ZIndex>
@@ -473,7 +463,6 @@ where
             </Style>
           </Textbox>
           <Textbox Name="Textbox11">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -492,7 +481,7 @@ Toowoomba QLD 4350</Value>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>3.35708in</Top>
-            <Left>1.77424in</Left>
+            <Left>1.89924in</Left>
             <Height>0.66667in</Height>
             <Width>2.81437in</Width>
             <ZIndex>11</ZIndex>
@@ -507,7 +496,6 @@ Toowoomba QLD 4350</Value>
             </Style>
           </Textbox>
           <Textbox Name="Textbox12">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -524,7 +512,7 @@ Toowoomba QLD 4350</Value>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>3.77375in</Top>
-            <Left>5.11247in</Left>
+            <Left>5.23747in</Left>
             <Height>0.25in</Height>
             <Width>0.49083in</Width>
             <ZIndex>12</ZIndex>
@@ -539,7 +527,6 @@ Toowoomba QLD 4350</Value>
             </Style>
           </Textbox>
           <Textbox Name="Textbox13">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -558,7 +545,7 @@ Toowoomba QLD 4350</Value>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>1.66542in</Top>
-            <Left>5.97705in</Left>
+            <Left>5.60205in</Left>
             <Height>0.25in</Height>
             <Width>1.63667in</Width>
             <ZIndex>13</ZIndex>
@@ -591,7 +578,7 @@ Toowoomba QLD 4350</Value>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>1.98486in</Top>
-            <Left>5.97705in</Left>
+            <Left>5.60205in</Left>
             <Height>0.25in</Height>
             <Width>1.63667in</Width>
             <ZIndex>14</ZIndex>
@@ -606,7 +593,6 @@ Toowoomba QLD 4350</Value>
             </Style>
           </Textbox>
           <Textbox Name="Textbox15">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -623,7 +609,7 @@ Toowoomba QLD 4350</Value>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>2.60639in</Top>
-            <Left>5.11247in</Left>
+            <Left>4.86247in</Left>
             <Height>0.25in</Height>
             <Width>1.32416in</Width>
             <ZIndex>15</ZIndex>
@@ -638,7 +624,6 @@ Toowoomba QLD 4350</Value>
             </Style>
           </Textbox>
           <Textbox Name="Textbox16">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -655,7 +640,7 @@ Toowoomba QLD 4350</Value>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>2.94319in</Top>
-            <Left>5.11247in</Left>
+            <Left>4.86247in</Left>
             <Height>0.25in</Height>
             <Width>1.32416in</Width>
             <ZIndex>16</ZIndex>
@@ -687,7 +672,7 @@ Toowoomba QLD 4350</Value>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>2.60639in</Top>
-            <Left>6.58643in</Left>
+            <Left>6.21143in</Left>
             <Height>0.25in</Height>
             <Width>1.02729in</Width>
             <ZIndex>17</ZIndex>
@@ -719,7 +704,7 @@ Toowoomba QLD 4350</Value>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>2.94319in</Top>
-            <Left>6.58643in</Left>
+            <Left>6.21143in</Left>
             <Height>0.25in</Height>
             <Width>1.02729in</Width>
             <ZIndex>18</ZIndex>
@@ -734,7 +719,6 @@ Toowoomba QLD 4350</Value>
             </Style>
           </Textbox>
           <Textbox Name="Textbox19">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -751,7 +735,7 @@ Toowoomba QLD 4350</Value>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>3.77375in</Top>
-            <Left>5.67275in</Left>
+            <Left>5.79775in</Left>
             <Height>0.25in</Height>
             <Width>1.45958in</Width>
             <ZIndex>19</ZIndex>
@@ -769,21 +753,21 @@ Toowoomba QLD 4350</Value>
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>3.57292in</Width>
+                  <Width>3.38111in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.35906in</Width>
+                  <Width>1.16725in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.26198in</Width>
+                  <Width>1.07017in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.20802in</Width>
+                  <Width>1.01621in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
                 <TablixRow>
-                  <Height>0.43402in</Height>
+                  <Height>0.43142in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -945,7 +929,7 @@ Toowoomba QLD 4350</Value>
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.32465in</Height>
+                  <Height>0.32205in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -1094,7 +1078,7 @@ Toowoomba QLD 4350</Value>
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.36092in</Height>
+                  <Height>0.35832in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -1246,7 +1230,7 @@ Toowoomba QLD 4350</Value>
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.27777in</Height>
+                  <Height>0.27517in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -1387,7 +1371,7 @@ Toowoomba QLD 4350</Value>
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.36246in</Height>
+                  <Height>0.35986in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -1536,7 +1520,7 @@ Toowoomba QLD 4350</Value>
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.25522in</Height>
+                  <Height>0.25262in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -1677,7 +1661,7 @@ Toowoomba QLD 4350</Value>
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.40895in</Height>
+                  <Height>0.40635in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -1829,7 +1813,7 @@ Toowoomba QLD 4350</Value>
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.41127in</Height>
+                  <Height>0.40867in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -2025,10 +2009,10 @@ Toowoomba QLD 4350</Value>
               </TablixMembers>
             </TablixRowHierarchy>
             <DataSetName>t_pecan_portal_FinalPayment_RCTI_g</DataSetName>
-            <Top>4.62375in</Top>
-            <Left>0.24758in</Left>
-            <Height>2.83526in</Height>
-            <Width>7.40198in</Width>
+            <Top>4.64458in</Top>
+            <Left>0.49758in</Left>
+            <Height>2.81443in</Height>
+            <Width>6.63475in</Width>
             <ZIndex>20</ZIndex>
             <Style>
               <Border>
@@ -2053,8 +2037,8 @@ Toowoomba QLD 4350</Value>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
-            <Top>10.86229in</Top>
-            <Left>0.20251in</Left>
+            <Top>10.61229in</Top>
+            <Left>0.32751in</Left>
             <Height>0.25in</Height>
             <Width>1.32416in</Width>
             <ZIndex>21</ZIndex>
@@ -2085,8 +2069,8 @@ Toowoomba QLD 4350</Value>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
-            <Top>11.18173in</Top>
-            <Left>0.20251in</Left>
+            <Top>10.93173in</Top>
+            <Left>0.32751in</Left>
             <Height>0.25in</Height>
             <Width>1.32416in</Width>
             <ZIndex>22</ZIndex>
@@ -2101,7 +2085,6 @@ Toowoomba QLD 4350</Value>
             </Style>
           </Textbox>
           <Textbox Name="Textbox36">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -2119,8 +2102,8 @@ Toowoomba QLD 4350</Value>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
-            <Top>10.86229in</Top>
-            <Left>6.07626in</Left>
+            <Top>10.61229in</Top>
+            <Left>5.57626in</Left>
             <Height>0.25in</Height>
             <Width>1.63667in</Width>
             <ZIndex>23</ZIndex>
@@ -2151,8 +2134,8 @@ Toowoomba QLD 4350</Value>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
-            <Top>11.50117in</Top>
-            <Left>0.20251in</Left>
+            <Top>11.25117in</Top>
+            <Left>0.32751in</Left>
             <Height>0.25in</Height>
             <Width>1.32416in</Width>
             <ZIndex>24</ZIndex>
@@ -2235,27 +2218,27 @@ Toowoomba QLD 4350</Value>
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>2.53229in</Width>
+                  <Width>2.21892in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.06486in</Width>
+                  <Width>0.94736in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.18975in</Width>
+                  <Width>0.86353in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.31051in</Width>
+                  <Width>0.93475in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>0.71875in</Width>
+                  <Width>0.45795in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.39583in</Width>
+                  <Width>1.23869in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
                 <TablixRow>
-                  <Height>0.32812in</Height>
+                  <Height>0.29024in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -2274,7 +2257,7 @@ Toowoomba QLD 4350</Value>
                                 </TextRun>
                               </TextRuns>
                               <Style>
-                                <TextAlign>Right</TextAlign>
+                                <TextAlign>Left</TextAlign>
                               </Style>
                             </Paragraph>
                           </Paragraphs>
@@ -2500,10 +2483,10 @@ Toowoomba QLD 4350</Value>
                 </FilterValues>
               </Filter>
             </Filters>
-            <Top>13.62059in</Top>
-            <Left>0.22335in</Left>
-            <Height>0.32812in</Height>
-            <Width>8.21199in</Width>
+            <Top>13.03347in</Top>
+            <Left>0.45251in</Left>
+            <Height>0.29024in</Height>
+            <Width>6.66121in</Width>
             <ZIndex>27</ZIndex>
             <Style>
               <Border>
@@ -2512,7 +2495,6 @@ Toowoomba QLD 4350</Value>
             </Style>
           </Tablix>
           <Textbox Name="Textbox57">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -2529,7 +2511,7 @@ Toowoomba QLD 4350</Value>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>2.62375in</Top>
-            <Left>1.77424in</Left>
+            <Left>1.89924in</Left>
             <Height>0.25in</Height>
             <Width>2.82718in</Width>
             <ZIndex>28</ZIndex>
@@ -2544,7 +2526,6 @@ Toowoomba QLD 4350</Value>
             </Style>
           </Textbox>
           <Textbox Name="Textbox78">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -2558,8 +2539,8 @@ Toowoomba QLD 4350</Value>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox78</rd:DefaultName>
-            <Top>10.86229in</Top>
-            <Left>1.76501in</Left>
+            <Top>10.61229in</Top>
+            <Left>1.89001in</Left>
             <Height>0.25in</Height>
             <Width>2.04626in</Width>
             <ZIndex>29</ZIndex>
@@ -2574,7 +2555,6 @@ Toowoomba QLD 4350</Value>
             </Style>
           </Textbox>
           <Textbox Name="Textbox23">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -2590,8 +2570,8 @@ Toowoomba QLD 4350</Value>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
-            <Top>11.18173in</Top>
-            <Left>1.76501in</Left>
+            <Top>10.93173in</Top>
+            <Left>1.89001in</Left>
             <Height>0.25in</Height>
             <Width>2.04626in</Width>
             <ZIndex>30</ZIndex>
@@ -2623,8 +2603,8 @@ Toowoomba QLD 4350</Value>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
-            <Top>11.18173in</Top>
-            <Left>6.07626in</Left>
+            <Top>10.93173in</Top>
+            <Left>5.57626in</Left>
             <Height>0.25in</Height>
             <Width>1.63667in</Width>
             <ZIndex>31</ZIndex>
@@ -2642,15 +2622,15 @@ Toowoomba QLD 4350</Value>
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>5.43325in</Width>
+                  <Width>5.04963in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.96873in</Width>
+                  <Width>1.58511in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
                 <TablixRow>
-                  <Height>0.28125in</Height>
+                  <Height>0.26562in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -2723,7 +2703,7 @@ Toowoomba QLD 4350</Value>
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.36458in</Height>
+                  <Height>0.34896in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -2824,10 +2804,10 @@ Toowoomba QLD 4350</Value>
             <PageBreak>
               <BreakLocation>End</BreakLocation>
             </PageBreak>
-            <Top>8.47792in</Top>
-            <Left>0.24758in</Left>
-            <Height>0.64583in</Height>
-            <Width>7.40198in</Width>
+            <Top>7.88417in</Top>
+            <Left>0.49758in</Left>
+            <Height>0.61458in</Height>
+            <Width>6.63475in</Width>
             <ZIndex>32</ZIndex>
             <Style>
               <Border>
@@ -2839,15 +2819,15 @@ Toowoomba QLD 4350</Value>
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>5.45748in</Width>
+                  <Width>4.24026in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>3.98775in</Width>
+                  <Width>2.40011in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
                 <TablixRow>
-                  <Height>0.32812in</Height>
+                  <Height>0.3076in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -2932,10 +2912,10 @@ Toowoomba QLD 4350</Value>
                 <TablixMember />
               </TablixMembers>
             </TablixRowHierarchy>
-            <Top>14.99212in</Top>
-            <Left>0.22335in</Left>
-            <Height>0.32812in</Height>
-            <Width>9.44523in</Width>
+            <Top>14.15153in</Top>
+            <Left>0.47335in</Left>
+            <Height>0.3076in</Height>
+            <Width>6.64037in</Width>
             <ZIndex>33</ZIndex>
             <Style>
               <Border>
@@ -2944,7 +2924,6 @@ Toowoomba QLD 4350</Value>
             </Style>
           </Tablix>
           <Textbox Name="Textbox31">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -2963,8 +2942,8 @@ Toowoomba QLD 4350</Value>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
-            <Top>11.50118in</Top>
-            <Left>1.76501in</Left>
+            <Top>11.25118in</Top>
+            <Left>1.89001in</Left>
             <Height>0.25in</Height>
             <Width>2.04626in</Width>
             <ZIndex>34</ZIndex>
@@ -2995,8 +2974,8 @@ Toowoomba QLD 4350</Value>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
-            <Top>11.82062in</Top>
-            <Left>0.20251in</Left>
+            <Top>11.57062in</Top>
+            <Left>0.32751in</Left>
             <Height>0.25in</Height>
             <Width>1.32415in</Width>
             <ZIndex>35</ZIndex>
@@ -3011,7 +2990,6 @@ Toowoomba QLD 4350</Value>
             </Style>
           </Textbox>
           <Textbox Name="Textbox25">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -3029,8 +3007,8 @@ Toowoomba QLD 4350</Value>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
-            <Top>11.82062in</Top>
-            <Left>1.76501in</Left>
+            <Top>11.57062in</Top>
+            <Left>1.89001in</Left>
             <Height>0.66667in</Height>
             <Width>2.81437in</Width>
             <ZIndex>36</ZIndex>
@@ -3045,7 +3023,6 @@ Toowoomba QLD 4350</Value>
             </Style>
           </Textbox>
           <Textbox Name="Textbox29">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -3061,8 +3038,8 @@ Toowoomba QLD 4350</Value>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
-            <Top>12.23729in</Top>
-            <Left>5.11247in</Left>
+            <Top>11.98729in</Top>
+            <Left>5.23747in</Left>
             <Height>0.25in</Height>
             <Width>0.49083in</Width>
             <ZIndex>37</ZIndex>
@@ -3077,7 +3054,6 @@ Toowoomba QLD 4350</Value>
             </Style>
           </Textbox>
           <Textbox Name="Textbox30">
-            <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
               <Paragraph>
@@ -3093,8 +3069,8 @@ Toowoomba QLD 4350</Value>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox2</rd:DefaultName>
-            <Top>12.23729in</Top>
-            <Left>5.67275in</Left>
+            <Top>11.98729in</Top>
+            <Left>5.79775in</Left>
             <Height>0.25in</Height>
             <Width>1.45958in</Width>
             <ZIndex>38</ZIndex>
@@ -3112,15 +3088,15 @@ Toowoomba QLD 4350</Value>
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>5.45748in</Width>
+                  <Width>4.24026in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>3.98775in</Width>
+                  <Width>2.40011in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
                 <TablixRow>
-                  <Height>0.32812in</Height>
+                  <Height>0.31722in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -3205,10 +3181,10 @@ Toowoomba QLD 4350</Value>
                 <TablixMember />
               </TablixMembers>
             </TablixRowHierarchy>
-            <Top>15.4899in</Top>
-            <Left>0.22335in</Left>
-            <Height>0.32812in</Height>
-            <Width>9.44523in</Width>
+            <Top>14.5008in</Top>
+            <Left>0.47335in</Left>
+            <Height>0.31722in</Height>
+            <Width>6.64037in</Width>
             <ZIndex>39</ZIndex>
             <Style>
               <Border>
@@ -3220,30 +3196,30 @@ Toowoomba QLD 4350</Value>
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>1.12275in</Width>
+                  <Width>1.15401in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.43038in</Width>
+                  <Width>1.06491in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.06486in</Width>
+                  <Width>0.94736in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.18975in</Width>
+                  <Width>0.86353in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.31051in</Width>
+                  <Width>0.93475in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>0.71875in</Width>
+                  <Width>0.43934in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.39583in</Width>
+                  <Width>1.2573in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
                 <TablixRow>
-                  <Height>0.25in</Height>
+                  <Height>0.23958in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -3490,7 +3466,7 @@ Toowoomba QLD 4350</Value>
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.25in</Height>
+                  <Height>0.23958in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -3534,7 +3510,9 @@ Toowoomba QLD 4350</Value>
                               <TextRuns>
                                 <TextRun>
                                   <Value>=Fields!Delivery_Date.Value</Value>
-                                  <Style />
+                                  <Style>
+                                    <Format>d</Format>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style>
@@ -3755,10 +3733,10 @@ Toowoomba QLD 4350</Value>
                 <Value>=Fields!Delivery_Date.Value</Value>
               </SortExpression>
             </SortExpressions>
-            <Top>12.89458in</Top>
-            <Left>0.20251in</Left>
-            <Height>0.5in</Height>
-            <Width>8.23283in</Width>
+            <Top>12.54041in</Top>
+            <Left>0.45251in</Left>
+            <Height>0.47917in</Height>
+            <Width>6.66121in</Width>
             <ZIndex>40</ZIndex>
             <Style>
               <Border>
@@ -3770,21 +3748,21 @@ Toowoomba QLD 4350</Value>
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>1.94215in</Width>
+                  <Width>1.39417in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.1773in</Width>
+                  <Width>1.0468in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>2.35887in</Width>
+                  <Width>1.81089in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>3.98775in</Width>
+                  <Width>2.40934in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
                 <TablixRow>
-                  <Height>0.25in</Height>
+                  <Height>0.25521in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -3926,7 +3904,7 @@ Toowoomba QLD 4350</Value>
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.25in</Height>
+                  <Height>0.25521in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -3937,7 +3915,7 @@ Toowoomba QLD 4350</Value>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Fields!ID50__Payment_Invoice_Number.Value</Value>
+                                  <Value>=Trim(Fields!ID50__Payment_Invoice_Number.Value)</Value>
                                   <Style />
                                 </TextRun>
                               </TextRuns>
@@ -3970,7 +3948,9 @@ Toowoomba QLD 4350</Value>
                               <TextRuns>
                                 <TextRun>
                                   <Value>=Fields!Delivery_Date.Value</Value>
-                                  <Style />
+                                  <Style>
+                                    <Format>d</Format>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style>
@@ -4081,10 +4061,10 @@ Toowoomba QLD 4350</Value>
               </TablixMembers>
             </TablixRowHierarchy>
             <DataSetName>t_pecan_portal_FinalPayment_RCTI_g</DataSetName>
-            <Top>14.24875in</Top>
-            <Left>0.20251in</Left>
-            <Height>0.5in</Height>
-            <Width>9.46607in</Width>
+            <Top>13.61333in</Top>
+            <Left>0.45251in</Left>
+            <Height>0.51042in</Height>
+            <Width>6.66121in</Width>
             <ZIndex>41</ZIndex>
             <Style>
               <Border>
@@ -4093,10 +4073,14 @@ Toowoomba QLD 4350</Value>
             </Style>
           </Tablix>
         </ReportItems>
-        <Height>17.82875in</Height>
-        <Style />
+        <Height>14.81802in</Height>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+        </Style>
       </Body>
-      <Width>11.60292in</Width>
+      <Width>8.1in</Width>
       <Page>
         <PageHeight>11.69in</PageHeight>
         <PageWidth>8.27in</PageWidth>
