@@ -566,7 +566,7 @@ Toowoomba QLD 4350</Value>
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>=Parameters!ContractNumber.Value &amp;"/"&amp;"2"</Value>
+                    <Value>=Trim(Parameters!ContractNumber.Value) &amp; "/" &amp; "2"</Value>
                     <Style>
                       <FontWeight>Normal</FontWeight>
                     </Style>
@@ -2594,7 +2594,7 @@ Toowoomba QLD 4350</Value>
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>=Parameters!ContractNumber.Value &amp;"/"&amp;"2"</Value>
+                    <Value>=Trim(Parameters!ContractNumber.Value) &amp; "/" &amp; "2"</Value>
                     <Style>
                       <FontWeight>Normal</FontWeight>
                     </Style>
@@ -2777,7 +2777,6 @@ Toowoomba QLD 4350</Value>
                             <rd:FormatSymbolCulture>en-US</rd:FormatSymbolCulture>
                           </Style>
                         </Textbox>
-                        <rd:Selected>true</rd:Selected>
                       </CellContents>
                     </TablixCell>
                   </TablixCells>
